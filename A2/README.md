@@ -1,1 +1,3 @@
-[README.md](https://github.com/SatyamModi/COL334-Assignments/files/7631408/README.md)
+# Assignment - COL 334
+ Execute the server code with `python3 server.py`
+ Execute the client code with `python3 client.py`
